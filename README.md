@@ -8,7 +8,7 @@
 
 ## 教程
 
-- [github](./blog/github.md)
+- [git远程仓库github](./blog/github.md)
 
 ## 问题
 
